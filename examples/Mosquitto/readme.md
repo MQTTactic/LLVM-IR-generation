@@ -16,7 +16,7 @@ $ apt install libc-ares-dev libwebsockets-dev  libevent-pthreads-2.1-7  uthash-d
 
 ```
 
-#### Compile
+#### 0x02 Compile
 
 ```bash
 
