@@ -1,7 +1,7 @@
 # LLVM-IR-generation
 
 
-#### Frontends for LLVM
+## Frontends for LLVM
 > Some projects are still in the development stage and may not fully support language features.
 
 |  Language          |                Tool(s)                                              |
@@ -16,7 +16,7 @@
 
 ------------------------
 
-#### Instruction
+## Instruction
 
 > The installation of tools and LLVM envrioments will not be repeated here.
 
