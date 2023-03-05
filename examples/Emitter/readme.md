@@ -1,4 +1,4 @@
-#### Gollvm
+#### Install Gollvm
 
 ```bash
 # llvm 14
