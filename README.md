@@ -102,5 +102,82 @@ $ kotlinc-native hello.kt -o hello -p bitcode
 ```
 
 
+## Open-source MQTT brokers
 
+| Broker Name | Repository |
+| --- | --- |
+| ejabberd | processone/ejabberd |
+| Emitter | emitter-io/emitter |
+| EMQ X | emqx/emqx |
+| FlashMQ | halfgaar/FlashMQ |
+| HBMQTT | beerfactory/hbmqtt |
+| HiveMQ | hivemq/hivemq-community-edition |
+| Jmqtt | Cicizz/jmqtt |
+| Moquette | moquette-io/moquette |
+| Mosca | moscajs/mosca |
+| Mosquitto | eclipse/mosquitto |
+| MQTTnet | dotnet/MQTTnet |
+| MqttWk | Wizzercn/MqttWk |
+| NanoMQ | emqx/nanomq |
+| RabbitMQ | rabbitmq/rabbitmq-server |
+| Cassandana | mtsoleimani/cassandana |
+| Apache ActiveMQ | apache/activemq |
+| Apache ActiveMQ Artemis | apache/activemq-artemis |
+| Solace | Solace |
+| SwiftMQ | iitsoftware/swiftmq-ce |
+| VerneMQ | vernemq/vernemq |
+| mainflux | mainflux/mainflux |
+| hmq | fhmq/hmq |
+| mqtt | xamarin/MQTT |
+| uMQTTBroker | martin-ger/uMQTTBroker |
+| volantmq | VolantMQ/volantmq |
+| mqtt | luelan/mqtt |
+| crossbar | crossbario/crossbar |
+| Erl.mqtt.server | alekras/erl.mqtt.server |
+| gmqtt | Drmagic/gmqtt |
+| smqtt | quickmsg/smqtt |
+| enmasse | EnMasseProject/enmasse |
+| mqtt | mochi-co/mqtt |
+| gnatmq | gnatmq/gnatmq |
+| gossipd | luanjunyi/gossipd |
+| mica-mqtt | lets-mica/mica-mqtt |
+| rumqtt | bytebeamio/rumqtt |
+| jo-mqtt | joey-happy/jo-mqtt |
+| gmqtt | hb-chen/gmqtt |
+| sol | codepr/sol |
+| mqtt-broker | bschwind/mqtt-broker |
+| mqtt | atilaneves/mqtt |
+| iot-mqtt | ShiCloud/iot-mqtt |
+| hermes | c16a/hermes |
+| esp-idf-mqtt-broker | nopnop2002/esp-idf-mqtt-broker |
+| mmqtt | MrHKing/mmqtt |
+| JetMQ | butaji/JetMQ |
+| mqttools | eerimoq/mqttools |
+| mqtt-gateway | FarmBot-Labs/mqtt-gateway |
+| TinyMqtt | hsaturn/TinyMqtt |
+| whsnbg | homewsn/whsnbg |
+| mithqtt | longkerdandy/mithqtt |
+| skyline | hansonkd/skyline |
+| Aedes | moscajs/aedes |
+| hrotti | alsm/hrotti |
+| KMQTT | davidepianca98/KMQTT |
+| Mystique | TheThingsIndustries/mystique |
+| SurgeMQ | zentures/surgemq |
+| creep | ConnorRigby/creep |
+| amlen | eclipse/amlen |
+| rmqtt | rmqtt/rmqtt |
+| PronghornGateway | oci-pronghorn/PronghornGateway |
+| DovakinMQ | Dovakin-IO/DovakinMQ |
+| ioBroker.mqtt | ioBroker/ioBroker.mqtt |
+| node-red-contrib-aedes | martin-doyle/node-red-contrib-aedes |
+| mqttcpp | atilaneves/mqttcpp |
+| LV-MQTT-Broker | LabVIEW-Open-Source/LV-MQTT-Broker |
+| haskell-hummingbird | lpeterse/haskell-hummingbird |
+| mhub | funkygao/mhub |
+| clima-link | PatrickKalkman/clima-link |
+| GS.GRID | GRIDSystemSAS/GS.GRID |
+| pyrinas-server-rs | pyrinas-iot/pyrinas-server-rs |
+| wave | gbour/wave |
+| lannister | anyflow/lannister |
+| JoramMQ | JoramMQ |
 
