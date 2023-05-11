@@ -34,7 +34,7 @@ $ sudo apt install build-essential cmake git
 $ pip3 install wllvm -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 # install dependencies for mosquitto
-$ apt install libc-ares-dev libwebsockets-dev  libevent-pthreads-2.1-7  uthash-dev  xsltproc libcjson-dev cjson-dev 
+$ apt install libc-ares-dev libwebsockets-dev  libevent-pthreads-2.1-7  uthash-dev  xsltproc libcjson-dev libcjson-dev 
 
 ```
 
@@ -47,7 +47,7 @@ BROKER_CFLAGS:=${CFLAGS} -stdlib=libc++ -static -g -O0 -Xclang -disable-O0-optno
 
 
 $ export  CFLAGS="-g -O0 -Xclang -disable-O0-optnone  -fno-discard-value-names"
-$ export LLVM_COMPILER=clang CC=wllvm make
+$ export LLVM_COMPILER=clang CC=wllvm & make WITH_DOCS=no
 $ extract-bc mosquitto
 
 # link mosquitto.bc and lib.a.bc
