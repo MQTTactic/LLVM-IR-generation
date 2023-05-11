@@ -1,4 +1,8 @@
 
+
+> OS: Ubuntu-18.04
+
+
 #### 0x01 Dependency
 
 ```bash
