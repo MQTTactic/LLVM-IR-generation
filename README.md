@@ -18,7 +18,7 @@
 
 ## Instruction
 
-> The installation of tools and LLVM envrioments will not be repeated here.
+> The installation of tools and LLVM enviroments will not be repeated here.
 
 ##### C/C++
 
