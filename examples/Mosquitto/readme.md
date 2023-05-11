@@ -48,7 +48,7 @@ BROKER_CFLAGS:=${CFLAGS} -stdlib=libc++ -static -g -O0 -Xclang -disable-O0-optno
 
 $ export  CFLAGS="-g -O0 -Xclang -disable-O0-optnone  -fno-discard-value-names"
 $ export LLVM_COMPILER=clang CC=wllvm & make WITH_DOCS=no
-$ extract-bc mosquitto
+$ extract-bc src/mosquitto
 
 # link mosquitto.bc and lib.a.bc
 $ llvm-link ./mosquitto.bc ./libc.a.bc -o complete.bc
