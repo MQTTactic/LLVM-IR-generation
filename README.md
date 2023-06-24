@@ -12,6 +12,7 @@
 | erlang     | - [lumen/lumen: An alternative BEAM implementation, designed for WebAssembly](https://github.com/lumen/lumen) |
 | golang     | - [gollvm - Git at Google](https://go.googlesource.com/gollvm/) |
 | rust       | - [rust-osdev/cargo-xbuild: Automatically cross-compiles the sysroot crates core, compiler_builtins, and alloc.](https://github.com/rust-osdev/cargo-xbuild) |
+| Kotlin | - [Kotlin/Native libraries \| Kotlin (kotlinlang.org)](https://kotlinlang.org/docs/native-libraries.html) |
 
 
 ------------------------
