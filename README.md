@@ -12,6 +12,7 @@
 | erlang     | - [lumen/lumen: An alternative BEAM implementation, designed for WebAssembly](https://github.com/lumen/lumen) |
 | golang     | - [gollvm - Git at Google](https://go.googlesource.com/gollvm/) |
 | rust       | - [rust-osdev/cargo-xbuild: Automatically cross-compiles the sysroot crates core, compiler_builtins, and alloc.](https://github.com/rust-osdev/cargo-xbuild) |
+| Kotlin | - [Kotlin/Native libraries \| Kotlin (kotlinlang.org)](https://kotlinlang.org/docs/native-libraries.html) |
 
 
 ------------------------
@@ -19,6 +20,28 @@
 ## Instruction
 
 > The installation of tools and LLVM enviroments will not be repeated here.
+
+* Test Enviroment
+> $ cat /etc/os-release
+```
+NAME="Ubuntu"
+VERSION="20.04.3 LTS (Focal Fossa)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 20.04.3 LTS"
+VERSION_ID="20.04"
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=focal
+UBUNTU_CODENAME=focal
+```
+
+> $ uname -a
+```
+5.15.0-69-generic #76~20.04.1-Ubuntu SMP Mon Mar 20 15:54:19 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+```
 
 ##### C/C++
 
