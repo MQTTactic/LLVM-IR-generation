@@ -126,7 +126,7 @@ $ kotlinc-native hello.kt -o hello -p bitcode
 
 ## Open-source MQTT brokers (date:2023-06-23)
 
-**Tool for counting lines of code:**
+**The tool for counting lines of code:**
 
 https://github.com/AlDanial/cloc
 
